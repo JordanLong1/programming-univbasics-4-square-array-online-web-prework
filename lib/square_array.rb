@@ -8,7 +8,3 @@ while counter < array.length do
 end
 return squared
 end
-
-
-
-
