@@ -9,4 +9,6 @@ end
 return squared
 end
 
-p square_array([4, 6, 9])
+
+
+
