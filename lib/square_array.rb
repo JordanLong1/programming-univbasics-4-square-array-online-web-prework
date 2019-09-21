@@ -9,4 +9,4 @@ end
 return squared
 end
 
-puts square_array([4, 6, 9])
+p square_array([4, 6, 9])
