@@ -8,3 +8,5 @@ while counter < array.length do
 end
 return squared
 end
+
+puts square_array([4, 6, 9])
